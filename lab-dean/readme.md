@@ -1,0 +1,3 @@
+In arithmetic.js we have a function that will take in two arguments and output the sum of the two numbers and the difference of the two numbers provided also. It will not run and give an error if the input arguments are not integers.
+
+In greet.js we have a function that will take in a string, preferably a name, and give you a nice greeting when input. If no name is put in then the function will take the time to say hello to the world, and if a number or any other data besides a string is input then it will error.
